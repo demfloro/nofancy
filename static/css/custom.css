@@ -53,13 +53,15 @@ body {
 	font-weight: bold;
 	padding-left: 1em;
 	margin-top: 1em;
+        font-size: 1em;
 	font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .posts {
-	font-family: verdana,arial,helvetica,sans-serif;
+	font-family: "Roboto",verdana,arial,helvetica,sans-serif;
 	list-style-type:none;
 	padding-left: 1em;
+	font-size: 1.4em;
 }
 
 .posts li p{
@@ -131,7 +133,7 @@ body {
 }
 
 .post {
-	font-family: proxima-nova,"Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+	font-family: "Roboto",proxima-nova,"Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
 	color:#484848;
 	letter-spacing:normal;
 	padding-left: .5em;

@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
-  font-weight: 300;
+  font-weight: 400;
   src: local('Roboto Light'), local('Roboto-Light'), url(//ttf/Roboto-Light.ttf) format('truetype');
 }
 @font-face {
