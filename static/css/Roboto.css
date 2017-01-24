@@ -2,11 +2,11 @@
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
-  src: local('Roboto Light'), local('Roboto-Light'), url(//ttf/Roboto-Light.ttf) format('truetype');
+  src: local('Roboto Light'), local('Roboto-Light'), url(/ttf/Roboto-Light.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(//ttf/Roboto-Regular.ttf) format('truetype');
+  src: local('Roboto'), local('Roboto-Regular'), url(/ttf/Roboto-Regular.ttf) format('truetype');
 }
